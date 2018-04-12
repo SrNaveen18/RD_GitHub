@@ -12,6 +12,14 @@ public class MainActivity extends AppCompatActivity {
 
         //call method has been created
         call();
+
+        //sum method has been created
+        // third commit
+        sum();
+    }
+
+    private void sum() {
+
     }
 
     private void call() {
